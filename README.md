@@ -236,4 +236,4 @@ TerraTech is offered as a full free version with all features and updates includ
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-29 17:14:37 UTC
+**Last updated:** 2026-10-29 22:18:06 UTC
